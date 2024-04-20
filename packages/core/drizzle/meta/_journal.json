@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1712528976626,
+      "tag": "0000_real_giant_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1712529288789,
+      "tag": "0001_lucky_outlaw_kid",
+      "breakpoints": true
+    }
+  ]
+}
